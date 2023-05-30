@@ -1,0 +1,30 @@
+openai/whisper-small
+Default Decoding Strategy
+ 낯선자가 나가자
+
+
+openai/whisper-small
+Best Decoding Strategy
+ 낯선자가 나가자
+
+
+whisper-small-ko-ksponspeech-encoder-freeze-1e-5/checkpoint-9500
+Default Decoding Strategy
+여자 친구 있어요? 아니 없어요. 없어요? 없어요. 없어요? 아니 없어요. 아 있었는데 아니 없어요 그냥. 아 걸그룹 춤을 추고 여자의 노래를 부르고 완벽하게 소화를 해내면 굉장히 큰 장점과 이 점이 돼요. 근데 아직은 그걸 소화하기엔 너무 역부적이고 노력과 시간이 투자가 되야 될 거 같애. 낯선 자가 나가자 난 얘기는
+
+
+whisper-small-ko-ksponspeech-encoder-freeze-1e-5/checkpoint-9500
+Best Decoding Strategy
+여자 친구 있어요? 아니 없어요. 없었어요? 없어요. 없었어요? 아니 없어요. 아 있었는데 아니 없어요 그냥. 아 걸그룹 춤을 추고 여자의 노래를 부르고 완벽하게 소화를 해내면 굉장히 큰 장점과 이 점이 돼요. 근데 아직은 그걸 소화하기엔 너무 역부적이고 노력과 시간이 투자가 되야 될 거 같애. 낯선 자가 나가자 난 얘기는
+
+
+whisper-small-ko-ksponspeech-encoder-freeze-1e-5-9500-repeat-1e-6/checkpoint-150
+Default Decoding Strategy
+여자 친구 있어요? 아니 없어요. 없어요? 없어요. 없어요? 아니 없어요. 아 있었는데 아니 없어요 그냥. 아 걸그룹 춤을 추고 여자의 노래를 부르고 완벽하게 소화를 해내면 굉장히 큰 장점과 이 점이 돼요. 근데 아직은 그걸 소화하기엔 너무 역부적이고 노력과 시간이 투자가 되야 될 거 같애. 낯선 자가 나가자 난 이 근
+
+
+whisper-small-ko-ksponspeech-encoder-freeze-1e-5-9500-repeat-1e-6/checkpoint-150
+Best Decoding Strategy
+여자 친구 있어요? 아니 없어요 없어요 없어요 없어요 아니 없어요 아 있었는데 아니 없어요 그냥 아 걸그룹 춤을 추고 여자의 노래를 부르고 완벽하게 소화를 해내면 굉장히 큰 장점과 이 점이 돼요 근데 아직은 그걸 소화하기엔 너무 역부적이고 노력과 시간이 투자가 되야 될 거 같애 낯선 자가 나가자 난 얘기는
+
+

@@ -1,0 +1,30 @@
+openai/whisper-small
+Default Decoding Strategy
+ 마의 어머니시여. 우리를 구워놔서서. 다음 주에 또 만나요!
+
+
+openai/whisper-small
+Best Decoding Strategy
+ 마의 어머니시여. 우리를 구워놔서서. 다음 주에 또 만나요!
+
+
+whisper-small-ko-ksponspeech-encoder-freeze-1e-5/checkpoint-9500
+Default Decoding Strategy
+나의 어머니시어. 우리를 구워놔서서.음
+
+
+whisper-small-ko-ksponspeech-encoder-freeze-1e-5/checkpoint-9500
+Best Decoding Strategy
+나의 어머니시어. 우리를 구워놔서서.음
+
+
+whisper-small-ko-ksponspeech-encoder-freeze-1e-5-9500-repeat-1e-6/checkpoint-150
+Default Decoding Strategy
+마의 어머니시어. 우리를 구워놔서서.음
+
+
+whisper-small-ko-ksponspeech-encoder-freeze-1e-5-9500-repeat-1e-6/checkpoint-150
+Best Decoding Strategy
+마의 어머니시어. 우리를 구워놔서서음
+
+

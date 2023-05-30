@@ -1,0 +1,30 @@
+openai/whisper-small
+Default Decoding Strategy
+ 그의 정신병자상의 아니고 알려지겠어요. 뭐 뭐? 그럼 우리서 할 수 없나? 증명을 썼어요? 맞습니다. 아 선생님 증명든 책이 있던데? 거짓말입니다. 그 책을 버리세요. 뭐 뭐? 진짜요? 진짜요? 여러분들은 이야기할 수 없어요. 어쨌든. 교원 평균 평균은 무평균이다 라고 알려져 있습니다. 그리고 우리 어떻게 하는가? 왜 나고 어쩔 수 없다고지? 단지 생각 경면 이렇게 되다 라고 유치할 수 있습니다.
+
+
+openai/whisper-small
+Best Decoding Strategy
+ 아, 무슨 소리야? 같은 말만 계속 밥 먹고 정신병자 상위 아니고? 알려지겠어요. 뭐고? 그럼 우리서 할 수 없나요? 증명을 썼어요? 맞습니다. 아, 선생님 증명든 책이 있던데? 거짓말입니다. 그 책을 버리세요. 뭐고? 진짜요? 진짠다. 여러분들은 이할 수 없어요. 어쨌든. 교원 평균의 평균은 무평균이다! 라고 알려져 있습니다. 그리고 우리 어떻게 하는가? 왜 나고 어쩔 수 없다고지? 단지 생각 경면 일으켰다! 라고 유치할 수 있습니다.
+
+
+whisper-small-ko-ksponspeech-encoder-freeze-1e-5/checkpoint-9500
+Default Decoding Strategy
+어.
+
+
+whisper-small-ko-ksponspeech-encoder-freeze-1e-5/checkpoint-9500
+Best Decoding Strategy
+어.
+
+
+whisper-small-ko-ksponspeech-encoder-freeze-1e-5-9500-repeat-1e-6/checkpoint-150
+Default Decoding Strategy
+어
+
+
+whisper-small-ko-ksponspeech-encoder-freeze-1e-5-9500-repeat-1e-6/checkpoint-150
+Best Decoding Strategy
+어
+
+
